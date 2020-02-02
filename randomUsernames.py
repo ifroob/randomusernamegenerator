@@ -12,13 +12,17 @@ def generateUserNames(amount):
         adjectivesFileCnt = sum(1 for line in adjectivesFile)
         animalsFileCnt = sum(1 for line in animalsFile)
 
+        print("************************ Adjective Count: %i ************************" % adjectivesFileCnt)
+        print("************************ Animals Count: %i ************************" % animalsFileCnt)
+
         for i in range(0, amount):
                 adjective = linecache.getline("word-bank/words/english-adjectives.txt", random.randint(0, adjectivesFileCnt - 1))
                 animal = linecache.getline("word-bank/words/animals.txt", random.randint(0, animalsFileCnt - 1))
                 number = random.randint(0, 99)
                 if (number < 10):
                         number = str(0) + str(number)
-                userName = adjective.strip().capitalize() + animal.strip().capitalize() + str(number)
+                # Build the username so that it's presentable like AdjectiveAnimal01
+                userName = adjective.title().replace("-", "").strip() + animal.title().replace("-", "").strip() + str(number)
                 userNamesToReturn.append(userName.replace(" ", ""))
 
         return userNamesToReturn

@@ -1,521 +1,594 @@
-Canidae
-Felidae
-Cat
-Cattle
-Dog
-Donkey
-Goat
-Guinea pig
-Horse
-Pig
-Rabbit
-Fancy rat varieties
-laboratory rat strains
-Sheep breeds
-Water buffalo breeds
-Chicken breeds
-Duck breeds
-Goose breeds
-Pigeon breeds
-Turkey breeds
 Aardvark
-Aardwolf
-African buffalo
-African elephant
-African leopard
+Abyssinian
+Adelie Penguin
+Affenpinscher
+Afghan Hound
+African Bush Elephant
+African Civet
+African Clawed Frog
+African Forest Elephant
+African Palm Civet
+African Penguin
+African Tree Toad
+African Wild Dog
+Ainu Dog
+Airedale Terrier
+Akbash
+Akita
+Alaskan Malamute
 Albatross
+Aldabra Giant Tortoise
 Alligator
-Alpaca
-American buffalo (bison)
-American robin
-Amphibian
-list
-Anaconda
+Alpine Dachsbracke
+American Bulldog
+American Cocker Spaniel
+American Coonhound
+American Eskimo Dog
+American Foxhound
+American Pit Bull Terrier
+American Staffordshire Terrier
+American Water Spaniel
+Anatolian Shepherd Dog
 Angelfish
-Anglerfish
 Ant
 Anteater
 Antelope
-Antlion
-Ape
-Aphid
-Arabian leopard
+Appenzeller Dog
 Arctic Fox
+Arctic Hare
 Arctic Wolf
 Armadillo
-Arrow crab
-Asp
-Ass (donkey)
+Asian Elephant
+Asian Giant Hornet
+Asian Palm Civet
+Asiatic Black Bear
+Australian Cattle Dog
+Australian Kelpie Dog
+Australian Mist
+Australian Shepherd
+Australian Terrier
+Avocet
+Axolotl
+Aye Aye
 Baboon
+Bactrian Camel
 Badger
-Bald eagle
+Balinese
+Banded Palm Civet
 Bandicoot
+Barb
+Barn Owl
 Barnacle
 Barracuda
-Basilisk
-Bass
+Basenji Dog
+Basking Shark
+Basset Hound
 Bat
-Beaked whale
+Bavarian Mountain Hound
+Beagle
 Bear
-list
+Bearded Collie
+Bearded Dragon
 Beaver
-Bedbug
-Bee
+Bedlington Terrier
 Beetle
+Bengal Tiger
+Bernese Mountain Dog
+Bichon Frise
+Binturong
 Bird
-list
+Birds Of Paradise
+Birman
 Bison
-Blackbird
-Black panther
-Black widow spider
-Blue bird
-Blue jay
-Blue whale
-Boa
-Boar
+Black Bear
+Black Rhinoceros
+Black Russian Terrier
+Black Widow Spider
+Bloodhound
+Blue Lacy Dog
+Blue Whale
+Bluetick Coonhound
 Bobcat
-Bobolink
+Bolognese Dog
+Bombay
+Bongo
 Bonobo
 Booby
-Box jellyfish
-Bovid
-Buffalo, African
-Buffalo, American (bison)
-Bug
+Border Collie
+Border Terrier
+Bornean Orang-utan
+Borneo Elephant
+Boston Terrier
+Bottle Nosed Dolphin
+Boxer Dog
+Boykin Spaniel
+Brazilian Terrier
+Brown Bear
+Budgerigar
+Buffalo
+Bull Mastiff
+Bull Shark
+Bull Terrier
+Bulldog
+Bullfrog
+Bumble Bee
+Burmese
+Burrowing Frog
 Butterfly
-Buzzard
+Butterfly Fish
+Caiman
+Caiman Lizard
+Cairn Terrier
 Camel
-Canid
-Cape buffalo
+Canaan Dog
 Capybara
-Cardinal
-Caribou
-Carp
+Caracal
+Carolina Dog
+Cassowary
 Cat
-list
-Catshark
 Caterpillar
 Catfish
-Cattle
-list
+Cavalier King Charles Spaniel
 Centipede
-Cephalopod
+Cesky Fousek
 Chameleon
+Chamois
 Cheetah
-Chickadee
+Chesapeake Bay Retriever
 Chicken
-list
+Chihuahua
 Chimpanzee
 Chinchilla
+Chinese Crested Dog
+Chinook
+Chinstrap Penguin
 Chipmunk
-Clam
-Clownfish
-Cobra
+Chow Chow
+Cichlid
+Clouded Leopard
+Clown Fish
+Clumber Spaniel
+Coati
 Cockroach
-Cod
-Condor
-Constrictor
+Collared Peccary
+Collie
+Common Buzzard
+Common Frog
+Common Loon
+Common Toad
 Coral
+Cottontop Tamarin
 Cougar
 Cow
 Coyote
 Crab
+Crab-Eating Macaque
 Crane
-Crane fly
-Crawdad
-Crayfish
-Cricket
+Crested Penguin
 Crocodile
-Crow
-Cuckoo
-Cicada
-Damselfly
+Cross River Gorilla
+Curly Coated Retriever
+Cuscus
+Cuttlefish
+Dachshund
+Dalmatian
+Darwin's Frog
 Deer
+Desert Tortoise
+Deutsche Bracke
+Dhole
 Dingo
-Dinosaur
-list
+Discus
+Doberman Pinscher
+Dodo
 Dog
-list
+Dogo Argentino
+Dogue De Bordeaux
 Dolphin
 Donkey
-list
 Dormouse
-Dove
 Dragonfly
-Dragon
+Drever
 Duck
-list
-Dung beetle
+Dugong
+Dunker
+Dusky Dolphin
+Dwarf Crocodile
 Eagle
-Earthworm
 Earwig
+Eastern Gorilla
+Eastern Lowland Gorilla
 Echidna
-Eel
-Egret
+Edible Frog
+Egyptian Mau
+Electric Eel
 Elephant
-Elephant seal
-Elk
+Elephant Seal
+Elephant Shrew
+Emperor Penguin
+Emperor Tamarin
 Emu
-English pointer
-Ermine
+English Cocker Spaniel
+English Shepherd
+English Springer Spaniel
+Entlebucher Mountain Dog
+Epagneul Pont Audemer
+Eskimo Dog
+Estrela Mountain Dog
 Falcon
+Fennec Fox
 Ferret
-Finch
-Firefly
+Field Spaniel
+Fin Whale
+Finnish Spitz
+Fire-Bellied Toad
 Fish
+Fishing Cat
 Flamingo
-Flea
+Flat Coat Retriever
+Flounder
 Fly
-Flyingfish
-Fowl
+Flying Squirrel
+Fossa
 Fox
+Fox Terrier
+French Bulldog
+Frigatebird
+Frilled Lizard
 Frog
-Fruit bat
-Gamefowl
-list
-Galliform
-list
-Gazelle
+Fur Seal
+Galapagos Penguin
+Galapagos Tortoise
+Gar
 Gecko
+Gentoo Penguin
+Geoffroys Tamarin
 Gerbil
-Giant panda
-Giant squid
+German Pinscher
+German Shepherd
+Gharial
+Giant African Land Snail
+Giant Clam
+Giant Panda Bear
+Giant Schnauzer
 Gibbon
-Gila monster
+Gila Monster
 Giraffe
+Glass Lizard
+Glow Worm
 Goat
-list
-Goldfish
+Golden Lion Tamarin
+Golden Oriole
+Golden Retriever
 Goose
-list
 Gopher
 Gorilla
 Grasshopper
-Great blue heron
-Great white shark
-Grizzly bear
-Ground shark
-Ground sloth
+Great Dane
+Great White Shark
+Greater Swiss Mountain Dog
+Green Bee-Eater
+Greenland Dog
+Grey Mouse Lemur
+Grey Reef Shark
+Grey Seal
+Greyhound
+Grizzly Bear
 Grouse
-Guan
-list
-Guanaco
-Guineafowl
-list
-Guinea pig
-list
-Gull
+Guinea Fowl
+Guinea Pig
 Guppy
-Haddock
-Halibut
-Hammerhead shark
+Hammerhead Shark
 Hamster
 Hare
 Harrier
-Hawk
+Havanese
 Hedgehog
-Hermit crab
+Hercules Beetle
+Hermit Crab
 Heron
-Herring
+Highland Cattle
+Himalayan
 Hippopotamus
-Hookworm
-Hornet
+Honey Bee
+Horn Shark
+Horned Frog
 Horse
-list
-Hoverfly
+Horseshoe Crab
+Howler Monkey
+Human
+Humboldt Penguin
 Hummingbird
-Humpback whale
+Humpback Whale
 Hyena
+Ibis
+Ibizan Hound
 Iguana
 Impala
-Irukandji jellyfish
+Indian Elephant
+Indian Palm Squirrel
+Indian Rhinoceros
+Indian Star Tortoise
+Indochinese Tiger
+Indri
+Insect
+Irish Setter
+Irish WolfHound
+Jack Russel
 Jackal
 Jaguar
-Jay
+Japanese Chin
+Japanese Macaque
+Javan Rhinoceros
+Javanese
 Jellyfish
-Junglefowl
+Kakapo
 Kangaroo
-Kangaroo mouse
-Kangaroo rat
+Keel Billed Toucan
+Killer Whale
+King Crab
+King Penguin
 Kingfisher
-Kite
 Kiwi
 Koala
-Koi
-Komodo dragon
-Krill
-Ladybug
-Lamprey
-Landfowl
-Land snail
-Lark
-Leech
+Komodo Dragon
+Kudu
+Labradoodle
+Labrador Retriever
+Ladybird
+Leaf-Tailed Gecko
 Lemming
 Lemur
 Leopard
-Leopon
-Limpet
+Leopard Cat
+Leopard Seal
+Leopard Tortoise
+Liger
 Lion
+Lionfish
+Little Penguin
 Lizard
 Llama
 Lobster
-Locust
-Loon
-Louse
-Lungfish
+Long-Eared Owl
 Lynx
+
+Macaroni Penguin
 Macaw
-Mackerel
+Magellanic Penguin
 Magpie
-Mammal
+Maine Coon
+Malayan Civet
+Malayan Tiger
+Maltese
 Manatee
 Mandrill
-Manta ray
-Marlin
-Marmoset
-Marmot
-Marsupial
-Marten
-Mastodon
-Meadowlark
+Manta Ray
+Marine Toad
+Markhor
+Marsh Frog
+Masked Palm Civet
+Mastiff
+Mayfly
 Meerkat
-Mink
-Minnow
-Mite
-Mockingbird
+Millipede
+Minke Whale
 Mole
-Mollusk
+Molly
 Mongoose
-Monitor lizard
+Mongrel
+Monitor Lizard
 Monkey
+Monte Iberia Eleuth
+Moorhen
 Moose
-Mosquito
+Moray Eel
 Moth
-Mountain goat
+Mountain Gorilla
+Mountain Lion
 Mouse
 Mule
-Muskox
-Narwhal
+Neanderthal
+Neapolitan Mastiff
+Newfoundland
 Newt
-New World quail
 Nightingale
+Norfolk Terrier
+Norwegian Forest
+Numbat
+Nurse Shark
 Ocelot
 Octopus
-Old World quail
+Okapi
+Old English Sheepdog
+Olm
 Opossum
-Orangutan
-Orca
+Orang-utan
 Ostrich
 Otter
-Owl
-Ox
-Panda
+Oyster
+Pademelon
 Panther
-Panthera hybrid
-Parakeet
 Parrot
-Parrotfish
-Partridge
+Patas Monkey
 Peacock
-Peafowl
+Pekingese
 Pelican
 Penguin
-Perch
-Peregrine falcon
+Persian
 Pheasant
+Pied Tamarin
 Pig
-Pigeon
-list
+Pika
 Pike
-Pilot whale
-Pinniped
+Pink Fairy Armadillo
 Piranha
-Planarian
 Platypus
-Polar bear
-Pony
+Pointer
+Poison Dart Frog
+Polar Bear
+Pond Skater
+Poodle
+Pool Frog
 Porcupine
-Porpoise
-Portuguese man o' war
 Possum
-Prairie dog
 Prawn
-Praying mantis
-Primate
-Ptarmigan
+Proboscis Monkey
+Puffer Fish
 Puffin
+Pug
 Puma
-Python
+Purple Emperor
+Puss Moth
+Pygmy Hippopotamus
+Pygmy Marmoset
 Quail
-Quelea
+Quetzal
 Quokka
+Quoll
 Rabbit
-list
 Raccoon
-Rainbow trout
+Raccoon Dog
+Radiated Tortoise
+Ragdoll
 Rat
 Rattlesnake
-Raven
-Ray (Batoidea)
-Ray (Rajiformes)
-Red panda
+Red Knee Tarantula
+Red Panda
+Red Wolf
+Red-handed Tamarin
 Reindeer
-Reptile
 Rhinoceros
-Right whale
-Roadrunner
-Rodent
-Rook
-Rooster
-Roundworm
-Saber-toothed cat
-Sailfish
+River Dolphin
+River Turtle
+Robin
+Rock Hyrax
+Rockhopper Penguin
+Roseate Spoonbill
+Rottweiler
+Royal Penguin
+Russian Blue
+Sabre-Toothed Tiger
+Saint Bernard
 Salamander
-Salmon
-Sawfish
-Scale insect
-Scallop
+Sand Lizard
+Saola
 Scorpion
+Scorpion Fish
+Sea Dragon
+Sea Lion
+Sea Otter
+Sea Slug
+Sea Squirt
+Sea Turtle
+Sea Urchin
 Seahorse
-Sea lion
-Sea slug
-Sea snail
-Shark
-list
+Seal
+Serval
 Sheep
-list
-Shrew
+Shih Tzu
 Shrimp
-Silkworm
-Silverfish
-Skink
+Siamese
+Siamese Fighting Fish
+Siberian
+Siberian Husky
+Siberian Tiger
+Silver Dollar
 Skunk
 Sloth
-Slug
-Smelt
+Slow Worm
 Snail
 Snake
-list
-Snipe
-Snow leopard
-Sockeye salmon
-Sole
+Snapping Turtle
+Snowshoe
+Snowy Owl
+Somali
+South China Tiger
+Spadefoot Toad
 Sparrow
-Sperm whale
-Spider
-Spider monkey
-Spoonbill
+Spectacled Bear
+Sperm Whale
+Spider Monkey
+Spiny Dogfish
+Sponge
 Squid
 Squirrel
+Squirrel Monkey
+Sri Lankan Elephant
+Staffordshire Bull Terrier
+Stag Beetle
 Starfish
-Star-nosed mole
-Steelhead trout
+Stellers Sea Cow
+Stick Insect
 Stingray
 Stoat
-Stork
-Sturgeon
-Sugar glider
-Swallow
+Striped Rocket Frog
+Sumatran Elephant
+Sumatran Orang-utan
+Sumatran Rhinoceros
+Sumatran Tiger
+Sun Bear
 Swan
-Swift
-Swordfish
-Swordtail
-Tahr
-Takin
+Tang
+Tapanuli Orang-utan
 Tapir
-Tarantula
 Tarsier
-Tasmanian devil
+Tasmanian Devil
+Tawny Owl
 Termite
-Tern
-Thrush
-Tick
+Tetra
+Thorny Devil
+Tibetan Mastiff
+Tiffany
 Tiger
-Tiger shark
-Tiglon
-Toad
+Tiger Salamander
+Tiger Shark
 Tortoise
 Toucan
-Trapdoor spider
-Tree frog
-Trout
-Tuna
+Tree Frog
+Tropicbird
+Tuatara
 Turkey
-list
-Turtle
-Tyrannosaurus
-Urial
-Vampire bat
-Vampire squid
-Vicuna
-Viper
-Vole
+Turkish Angora
+Uakari
+Uguisu
+Umbrellabird
+Vampire Bat
+Vervet Monkey
 Vulture
 Wallaby
 Walrus
+Warthog
 Wasp
-Warbler
-Water Boa
-Water buffalo
+Water Buffalo
+Water Dragon
+Water Vole
 Weasel
-Whale
+Welsh Corgi
+West Highland Terrier
+Western Gorilla
+Western Lowland Gorilla
+Whale Shark
 Whippet
-Whitefish
-Whooping crane
-Wildcat
+White Faced Capuchin
+White Rhinoceros
+White Tiger
+Wild Boar
 Wildebeest
-Wildfowl
 Wolf
 Wolverine
 Wombat
+Woodlouse
 Woodpecker
-Worm
-Wren
-Xerinae
-X-ray fish
+Woolly Mammoth
+Woolly Monkey
+Wrasse
+X-Ray Tetra
 Yak
-Yellow perch
+Yellow-Eyed Penguin
+Yorkshire Terrier
 Zebra
-Zebra finch
-Animals by number of neurons
-Animals by size
-Common household pests
-Common names of poisonous animals
-Alpaca
-Bali cattle
-Cat
-Cattle
-Chicken
-Dog
-Domestic Bactrian camel
-Domestic canary
-Domestic dromedary camel
-Domestic duck
-Domestic goat
-Domestic goose
-Domestic guineafowl
-Domestic hedgehog
-Domestic pig
-Domestic pigeon
-Domestic rabbit
-Domestic silkmoth
-Domestic silver fox
-Domestic turkey
-Donkey
-Fancy mouse
-Fancy rat
-Lab rat
-Ferret
-Gayal
-Goldfish
-Guinea pig
-Guppy
-Horse
-Koi
-Llama
-Ringneck dove
-Sheep
-Siamese fighting fish
-Society finch
-Yak
-Water buffalo
+Zebra Shark
+Zebu
+Zonkey
+Zorse
